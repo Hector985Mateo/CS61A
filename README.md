@@ -13,5 +13,3 @@ CS 61A primarily uses the Python 3 programming language. Python is a popular lan
 Mastery of a particular programming language is a very useful side effect of CS 61A. However, our goal is not to dictate what language you use in your future endeavors. Instead, our hope is that once you have learned the concepts involved in programming, you will find that picking up a new programming language is but a few days' work.
 
 A complete list of lecture topics, readings, and assignments appears in the daily schedule.
-
-Prerequisites

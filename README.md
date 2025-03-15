@@ -3,7 +3,7 @@
 ### If you're a recruiter or employer and would like to review my projects, feel free to reach out to me via LinkedIn or Email. I'd be happy to provide access and discuss my work in detail. ###
 
 # CS61A
-Structure and Interpretation of Computer Programs (Fall 2020)
+Structure and Interpretation of Computer Programs (Fall 2020) Instructors: John DeNero & Hany Farid
 
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 

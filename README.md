@@ -1,6 +1,6 @@
 ### These are just blank Labs, Homeworks and Projects that I had when I first took the class. I do not CONDONE PLAGIARISM, if you need help, email your TA/Course Staff. There are resources available for Berkeley students, do not be afraid to ask for help. GO BEARS! ###
 
-### If you're a recruiter or employer and would like to review my projects, feel free to reach out to me via LinkedIn oe Email. I'd be happy to provide access and discuss my work in detail. ###
+### If you're a recruiter or employer and would like to review my projects, feel free to reach out to me via LinkedIn or Email. I'd be happy to provide access and discuss my work in detail. ###
 
 # CS61A
 Structure and Interpretation of Computer Programs (Fall 2020)

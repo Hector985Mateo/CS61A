@@ -1,6 +1,10 @@
 # CS61A
 Structure and Interpretation of Computer Programs (Fall 2020)
 
+### These are just blank Labs, Homeworks and Projects that I had when I first took the class. I do not CONDONE PLAGIARISM, if you need help email your TA/Course Staff. There are resources available for Berkeley students, do not be afraid to ask fro help. GO BEARS! ###
+
+### If you're a recruiter or employer and would like to review my projects, feel free to reach out to me via LinkedIn oe Email. I'd be happy to provide access and discuss my work in detail. ###
+
 The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
 
 CS 61A concentrates on the idea of abstraction, allowing the programmer to think in terms appropriate to the problem rather than in low-level operations dictated by the computer hardware.

@@ -1,4 +1,5 @@
-### These are blank labs, homework assignments, and projects from when I first took the course. I do not CONDONE PLAGIARISM. If you need help, please reach out to your TA or course staff. Berkeley students have access to various resources, so don’t hesitate to ask for help. GO BEARS! ###
+### These are blank labs, homework assignments, and projects from when I first took the course. I do not CONDONE PLAGIARISM. If you need help, please reach out to your TA or course staff. Berkeley students have access to various resources, so don’t hesitate to ask for help. 
+GO BEARS! ###
 
 ### If you're a recruiter or employer and would like to review my projects, feel free to reach out to me via LinkedIn or Email. I'd be happy to provide access and discuss my work in detail. ###
 
